@@ -94,9 +94,9 @@ La navigation est gérée avec **React Navigation (Stack Navigator)** :
 - Détails
 
 <p>
-  <img src="./assets/login.png" width="15%" style="margin-right: 10px;" />
-  <img src="./assets/accueil.png" width="15%" style="margin-right: 10px;" />
-  <img src="./assets/details.png" width="15%" style="margin-right: 10px;" />
+  <img src="./EtnaFlixapp/assets/login.png" width="15%" style="margin-right: 10px;" />
+  <img src="./EtnaFlixapp/assets/accueil.png" width="15%" style="margin-right: 10px;" />
+  <img src="./EtnaFlixapp/assets/details.png" width="15%" style="margin-right: 10px;" />
 </p>
 
 ---
