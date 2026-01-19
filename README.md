@@ -57,7 +57,7 @@ npm install -g expo-cli
 
 ```bash
 git clone git@github.com:JustKIKS/com.EtnaFlix.git
-cd etna-flix
+cd EtnaFlixapp
 npm install
 ```
 
@@ -123,6 +123,6 @@ La navigation est gérée avec **React Navigation (Stack Navigator)** :
 ## 👤 Auteur
 
 Projet réalisé par **Luka Brouard**
-Dans le cadre d’un projet de formation React Native.
+Dans le cadre d’un projet React Native à Etna.
 
 ---
