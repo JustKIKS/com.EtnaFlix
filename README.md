@@ -119,10 +119,3 @@ La navigation est gérée avec **React Navigation (Stack Navigator)** :
 - TMDB API : [https://developers.themoviedb.org/3](https://developers.themoviedb.org/3)
 
 ---
-
-## 👤 Auteur
-
-Projet réalisé par **Luka Brouard**
-Dans le cadre d’un projet React Native à Etna.
-
----
